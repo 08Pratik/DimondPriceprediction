@@ -6,4 +6,4 @@ matplotlib
 scikit-learn
 
 
-# -e .
+-e .
